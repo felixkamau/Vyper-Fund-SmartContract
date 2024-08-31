@@ -1,0 +1,4 @@
+name: hello
+compiler:
+  vyper:    
+    path: ./venv/bin/vyper

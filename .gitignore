@@ -1,0 +1,14 @@
+# Ape-specific directories
+.build/
+.cache/
+# Python-specific files and directories
+.venv/
+venv/
+
+# Python-specific files and directories
+.env
+.venv
+.pytest_cache/
+.python-version
+__pycache__/
+.deployed_contracts.txt
